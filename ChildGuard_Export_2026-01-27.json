@@ -1,0 +1,191 @@
+[
+  {
+    "name": "David",
+    "age": "12",
+    "location": "Enugu",
+    "description": "I suspect he is being molested by his guardian",
+    "status": "Pending",
+    "id": "CASE-4ZT77K",
+    "timestamp": "2026-01-27T17:24:18.067Z"
+  },
+  {
+    "id": "REF-2000",
+    "name": "Adaobi Chukwu",
+    "age": 7,
+    "location": "Enugu North",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Pending",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2001",
+    "name": "Tunde Akinde",
+    "age": 12,
+    "location": "Ikeja, Lagos",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Investigating",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2002",
+    "name": "Musa Ibrahim",
+    "age": 4,
+    "location": "Wuse 2, Abuja",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Resolved",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2003",
+    "name": "Kelechi Onyema",
+    "age": 4,
+    "location": "Sabon Gari, Kano",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Investigating",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2004",
+    "name": "Fatima Yusuf",
+    "age": 14,
+    "location": "Ibadan South",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Resolved",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2005",
+    "name": "Zainab Bello",
+    "age": 5,
+    "location": "Enugu North",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Resolved",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2006",
+    "name": "Emeka Obi",
+    "age": 4,
+    "location": "Ikeja, Lagos",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Investigating",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2007",
+    "name": "Chinedu Eze",
+    "age": 9,
+    "location": "Wuse 2, Abuja",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Pending",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2008",
+    "name": "Adaobi Chukwu",
+    "age": 10,
+    "location": "Sabon Gari, Kano",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Resolved",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2009",
+    "name": "Tunde Akinde",
+    "age": 11,
+    "location": "Ibadan South",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Resolved",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2010",
+    "name": "Musa Ibrahim",
+    "age": 14,
+    "location": "Enugu North",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Investigating",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2011",
+    "name": "Kelechi Onyema",
+    "age": 11,
+    "location": "Ikeja, Lagos",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Resolved",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2012",
+    "name": "Fatima Yusuf",
+    "age": 12,
+    "location": "Wuse 2, Abuja",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Investigating",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2013",
+    "name": "Zainab Bello",
+    "age": 8,
+    "location": "Sabon Gari, Kano",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Resolved",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2014",
+    "name": "Emeka Obi",
+    "age": 8,
+    "location": "Ibadan South",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Investigating",
+    "timestamp": "2026-01-27T17:23:05.739Z"
+  },
+  {
+    "id": "REF-2015",
+    "name": "Chinedu Eze",
+    "age": 5,
+    "location": "Enugu North",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Pending",
+    "timestamp": "2026-01-27T17:23:05.740Z"
+  },
+  {
+    "id": "REF-2016",
+    "name": "Adaobi Chukwu",
+    "age": 6,
+    "location": "Ikeja, Lagos",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Investigating",
+    "timestamp": "2026-01-27T17:23:05.740Z"
+  },
+  {
+    "id": "REF-2017",
+    "name": "Tunde Akinde",
+    "age": 5,
+    "location": "Wuse 2, Abuja",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Investigating",
+    "timestamp": "2026-01-27T17:23:05.740Z"
+  },
+  {
+    "id": "REF-2018",
+    "name": "Musa Ibrahim",
+    "age": 9,
+    "location": "Sabon Gari, Kano",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Resolved",
+    "timestamp": "2026-01-27T17:23:05.740Z"
+  },
+  {
+    "id": "REF-2019",
+    "name": "Kelechi Onyema",
+    "age": 14,
+    "location": "Ibadan South",
+    "description": "A detailed report of physical neglect and lack of supervision observed over the last 3 weeks in the specified residential area.",
+    "status": "Pending",
+    "timestamp": "2026-01-27T17:23:05.740Z"
+  }
+]
